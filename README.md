@@ -2,6 +2,7 @@
 Tools to work with WildTanget game assets
 ## Pywtools
 Requires Python 3, pip, and cabextract.
+
     sudo apt update
     sudo apt install python3 python3-pip cabextract -y
 ### Decompile wtxt to txt
